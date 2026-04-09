@@ -1,2 +1,1 @@
 # deko
-Ya pidoras
